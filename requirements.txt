@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+seaborn
+joblib
+numpy
+base64
+io 
+os
+openpyxl
+xlsxwriter
