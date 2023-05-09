@@ -5,4 +5,4 @@ joblib
 numpy
 openpyxl
 xlsxwriter
-sklearn
+scikit-learn==1.2.2
